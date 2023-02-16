@@ -32,7 +32,7 @@ https://xd.adobe.com/view/ebaa92ad-77bf-4f93-bd87-54125a2f9b6b-bef9/
 1. In VS Code, create two new files called index.html and style.css. Link your external stylesheet to your HTML file. 
 2. Code each one of your chosen content blocks. The layouts must be coded from scratch using flexbox and must look just like the wireframes when finished. **Using Bootstrap is not allowed.** The content blocks should be centered on the page.
 
-Depending on which content bloks you choose, your finished wwebpage could look like this for example:
+Depending on which content blocks you choose, your finished webpage could look like this for example:
 ![Image of sample webpage](images/example.png)
 
 #### Tips for using the XD wireframes link
