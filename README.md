@@ -1,7 +1,7 @@
 # Week 8 Exercise
 
 ## Objectives
-You will code a webpage made up of a series of different content blocks that you can chose from some provided layouts. You will use flexbox and the CSS box model to organize the content on the page and fine-tune the layouts of the different blocks. This exercise also provides the opportunity to practice coding using an Adobe XD wireframe as reference.
+You will code a webpage made up of a series of different content blocks that you can chose from some provided layouts. You will use flexbox and the CSS box model to organize the content on the page and fine-tune the layouts of the different blocks. This exercise also provides the opportunity to practice coding using an Adobe XD wireframe as a visual and CSS reference.
 
 ## Instructions
 Remember to:
@@ -14,7 +14,8 @@ Remember to:
 <!-- DGL 103 CVS1 - your name - Week 8 Exercise -->
 ```
 ### 2. Choose your content block layouts
-You will code the HTML and CSS for a webpage that includes the following content blocks:
+You can choose your content blocks by visiting this site: https://xd.adobe.com/view/ebaa92ad-77bf-4f93-bd87-54125a2f9b6b-bef9/.
+There are two layouts for each of the six provided content blocks. You must choose one layout from each content block and use the provided high fidelity wireframes as a guide to code the HTML and CSS for a webpage that has the following structure:
 1. Header
 2. Hero
 3. How it works
@@ -22,22 +23,19 @@ You will code the HTML and CSS for a webpage that includes the following content
 5. Call-to-action
 6. Footer
 
-The content blocks have been designed as high fidelity wireframes and each content block includes two possible layouts. You need to chose one layout for each block. To easily view your options, click on the link below then Wireframes > Tree icon:
-
-https://xd.adobe.com/view/ebaa92ad-77bf-4f93-bd87-54125a2f9b6b-bef9/ 
-
+To easily view your options, click on Wireframes > Tree icon:
 ![Image of sample webpage](images/wireframes.png)
 
 ### 3. Code the content blocks
 1. In VS Code, create two new files called index.html and style.css. Link your external stylesheet to your HTML file. 
-2. Code each one of your chosen content blocks. The layouts must be coded from scratch using flexbox and must look just like the wireframes when finished. **Using Bootstrap is not allowed.** The content blocks should be centered on the page.
+2. Code each one of your chosen content blocks. Some CSS is availble for you to copy in the XD link (see below for instructions on how to view the CSS). The layouts must be coded from scratch using flexbox and must look just like the wireframes when finished. **Using Bootstrap is not allowed.** The content blocks should be centered on the page with negative horizontal space on either side.
 
 Depending on which content blocks you choose, your finished webpage could look like this for example:
 ![Image of sample webpage](images/example.png)
 
-#### Tips for using the XD wireframes link
+#### Tips for using the XD wireframes link:
 1. Click on a content block layout to view its details. 
-2. Click on the Development icon </> in the vertical bar on the right of the screen to view the colours and typography that were applied to the content. The font "Ubuntu" is available from Google Fonts. 
+2. Click on the Development icon </> in the vertical bar on the right of the screen to view the CSS for the colours and typography that were applied to the content. The font "Ubuntu" is available from Google Fonts. 
 3. If you select a chunk of text in the layout, the content will appear in the panel on the right, as text that you can copy and paste directly into your HTML.
 4. A medium-grey area of space with an X across it is the wireframe language for an image. If images are included in the layout of a content block then you can download the image by clicking on it in the Assets panel on the right > select the PNG file format from the dropdown under Download Settings > click the Download button.
 ![Image of sample webpage](images/assets.png)
