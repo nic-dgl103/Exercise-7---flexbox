@@ -22,7 +22,7 @@ You will code the HTML and CSS for a webpage that includes the following content
 5. Call-to-action
 6. Footer
 
-The content blocks have been designed as high fidelity wireframes and each content block includes two possible layouts. You need to chose one layout for each of block. To easily view your options, click on the link below then Wireframes > Tree icon:
+The content blocks have been designed as high fidelity wireframes and each content block includes two possible layouts. You need to chose one layout for each block. To easily view your options, click on the link below then Wireframes > Tree icon:
 
 https://xd.adobe.com/view/ebaa92ad-77bf-4f93-bd87-54125a2f9b6b-bef9/ 
 
