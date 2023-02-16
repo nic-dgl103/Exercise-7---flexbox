@@ -1,7 +1,7 @@
 # Week 8 Exercise
 
 ## Objectives
-You will code a webpage made up of a series of different content blocks that you can chose from some provided layouts. You will use flexbox and the CSS box model to organize the content on the page and fine-tune the layouts of the different blocks. This exercise also provides the opportunity to practcie coding from a provided wireframe.
+You will code a webpage made up of a series of different content blocks that you can chose from some provided layouts. You will use flexbox and the CSS box model to organize the content on the page and fine-tune the layouts of the different blocks. This exercise also provides the opportunity to practice coding using an Adobe XD wireframe as reference.
 
 ## Instructions
 Remember to:
