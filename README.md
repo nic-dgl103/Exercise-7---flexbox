@@ -14,7 +14,7 @@ Remember to:
 <!-- DGL 103 CVS1 - your name - Flexbox -->
 ```
 ### 2. Choose your content block layouts
-You can choose your content blocks by visiting this site: https://xd.adobe.com/view/880fa750-7ec7-44cc-94f7-e8a7d5281509-dd5c/.
+You can choose your content blocks by visiting this site: https://xd.adobe.com/view/880fa750-7ec7-44cc-94f7-e8a7d5281509-dd5c/flow.
 There are two layouts for each of the six provided content blocks. You must choose one layout from each content block and use the provided high fidelity wireframes as a guide to code the HTML and CSS for a webpage that has the following structure:
 1. Header
 2. Hero
@@ -23,12 +23,9 @@ There are two layouts for each of the six provided content blocks. You must choo
 5. Call-to-action
 6. Footer
 
-To easily view your options, click on Wireframes > Tree icon:
-![Image of sample webpage](images/wireframes.png)
-
 ### 3. Code the content blocks
 1. In VS Code, create two new files called index.html and style.css. Link your external stylesheet to your HTML file. 
-2. Code each one of your chosen content blocks. Some CSS is available for you to copy in the XD link (see below for instructions on how to view the CSS). The layouts must be coded from scratch using flexbox and must look just like the wireframes when finished. The content blocks should be centered on the page with negative horizontal space on either side.
+2. Code each one of your chosen content blocks. Some CSS is available for you to copy in the XD link (see below for instructions on how to view the CSS). The content blocks must be coded from scratch using flexbox (not allowed to use floats, positioning, bootstrap or any other layout techniques that we haven't learnt yet). The content blocks should be centered on the page with negative horizontal space on either side, the width of the content is 1170px. The content blocks must look just like the wireframes when finished.
 
 Depending on which content blocks you choose, your finished webpage could look like this for example:
 ![Image of sample webpage](images/example.png)
