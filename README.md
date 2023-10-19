@@ -25,7 +25,7 @@ There are two layouts for each of the six provided content blocks. You must choo
 
 ### 3. Code the content blocks
 1. In VS Code, create two new files called index.html and style.css. Link your external stylesheet to your HTML file. 
-2. Code each one of your chosen content blocks. Some CSS is available for you to copy in the XD link (see below for instructions on how to view the CSS). The content blocks must be coded from scratch using flexbox (not allowed to use floats, positioning, bootstrap or any other layout techniques that we haven't learnt yet). The content blocks should be centered on the page with negative horizontal space on either side, the width of the content is 1170px. The content blocks must look just like the wireframes when finished.
+2. Code each one of your chosen content blocks. Some CSS is available for you to copy in the XD link (see below for instructions on how to view the CSS). The content blocks must be coded from scratch using flexbox (not allowed to use display inline/inline-block, floats, positioning, bootstrap or any other layout techniques that we have or haven't learnt yet). The content blocks should be centered on the page with negative horizontal space on either side, the width of the content is 1170px. The content blocks must look just like the wireframes when finished.
 
 Depending on which content blocks you choose, your finished webpage could look like this for example:
 ![Image of sample webpage](images/example.png)
