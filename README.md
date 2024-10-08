@@ -47,6 +47,6 @@ Depending on which content blocks you choose, your finished webpage could look l
 ### 5. Check for errors
 
 - Use the VSCode HTMLHint extension and validate your HTML code to make sure that it is correct: https://validator.w3.org/#validate_by_upload. Take a screenshot of the results.
-- Validate your HTML https://validator.w3.org/ and your CSS to make sure they are correct: https://jigsaw.w3.org/css-validator/. Take screenshots of the results.
+- Validate your CSS code to make sure that it is correct: https://jigsaw.w3.org/css-validator/ for CSS. Take a screenshot of the results.
 
 **You have now completed your exercise but you still need to push your edits to GitHub and submit it in Brightspace. Make sure to follow the instructions in the How to Complete Your Exercises Guide.**
